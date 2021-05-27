@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mineek
-- 👀 I’m interested in C#, JavaScript
-- 🌱 I’m currently learning C#, JavaScript
+- 👀 I’m interested in C#, JavaScript, C++
+- 🌱 I’m currently learning C#, JavaScript, C++
 
 
 <!---
