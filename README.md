@@ -1,14 +1,5 @@
-# Mineek
-
-### Welcome to my profile!
-
-#### Languages
-- 👀 I’m interested in C#, JavaScript, C++
-- 📖 I’m currently learning C#, JavaScript, C++
-
-#### Projects
-- 🔒 I mostly do private projects
-- 🔓 If i feel its completely done, i will SOMETIMES make them public
+## Mineek
+hi. I'm a developer (maybe) who loves to mess around with software and experiment with putting things on things they're not supposed to be on
 <!---
 mineek/mineek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
